@@ -1,2 +1,2 @@
-console.log('ikinci.jss');
-console.log('uc.js');
+console.log('ikinci.js');
+console.log('iki.js');
