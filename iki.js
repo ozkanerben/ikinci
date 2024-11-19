@@ -1,2 +1,2 @@
 console.log('ikinci.js');
-console.log('iki.js.....');
+console.log('iki.js....vvvvv.');
